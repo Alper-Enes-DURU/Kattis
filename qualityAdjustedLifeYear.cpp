@@ -17,6 +17,8 @@ int main()
         cin >> q >> y;
         total += q * y;  
     }
+
     cout << total;
+    
     return 0;
 }
